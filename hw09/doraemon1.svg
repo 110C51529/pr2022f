@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+  height="512" width="512" viewBox="0 0 512 512">
+
+  <!-- 背景 -->
+  
+
+<circle cx="260" cy="104" r="12" fill="white"/>
+
+<circle cx="264" cy="114" r="24" stroke="black" fill="red"/>
+
+<circle cx="267" cy="194" r="180" stroke-width="4" stroke="blue" fill="white"/>
+
+  
+
+</svg>
+
+
+    
